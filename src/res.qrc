@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/sling.png</file>
+        <file>image/pig.png</file>
+        <file>image/wood_2.png</file>
+        <file>image/background_2.png</file>
+        <file>image/rock.png</file>
+        <file>image/angry-bird-blue-icon.png</file>
+        <file>image/angry-bird-icon.png</file>
+        <file>image/angry-bird-white-icon.png</file>
+        <file>image/angry-bird-yellow-icon.png</file>
+        <file>sound/Activate_Sound_Effect.wav</file>
+        <file>sound/Angry_Birds_Theme_Song.wav</file>
+        <file>sound/Bird_Select_Sound_Effect.wav</file>
+        <file>sound/Breaks_Sound.wav</file>
+        <file>sound/Piglette_Collision_Sound_Effect.wav</file>
+        <file>sound/Trampoline_Sound_Effect.wav</file>
+        <file>image/emergency-exit.png</file>
+        <file>image/info.png</file>
+        <file>image/Restart.ico</file>
+        <file>image/information.jpg</file>
+    </qresource>
+</RCC>
